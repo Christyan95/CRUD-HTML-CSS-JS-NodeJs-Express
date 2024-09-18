@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+serviceAccountKey.json
+
+expenses-control-nodejs-express-main/serviceAccountKey.json
